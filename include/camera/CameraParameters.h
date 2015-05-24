@@ -189,6 +189,10 @@ public:
     static const char KEY_PREVIEW_FRAME_RATE_AUTO_MODE[];
     static const char KEY_PREVIEW_FRAME_RATE_FIXED_MODE[];
 #endif
+    // Fix camera for amazing & torino
+    static const char KEY_APP_SHUTTER_SOUND[];
+    static const char KEY_CAM_VT_MODE[];
+    static const char KEY_CAM_ID[];
     // The dimensions for captured pictures in pixels (width x height).
     // Example value: "1024x768". Read/write.
     static const char KEY_PICTURE_SIZE[];
