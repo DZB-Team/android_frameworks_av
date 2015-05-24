@@ -42,6 +42,9 @@ const char CameraParameters::KEY_SUPPORTED_PREVIEW_FRAME_RATE_MODES[] = "preview
 const char CameraParameters::KEY_PREVIEW_FRAME_RATE_AUTO_MODE[] = "frame-rate-auto";
 const char CameraParameters::KEY_PREVIEW_FRAME_RATE_FIXED_MODE[] = "frame-rate-fixed";
 #endif
+const char CameraParameters::KEY_APP_SHUTTER_SOUND[] = "AppShutterSound";
+const char CameraParameters::KEY_CAM_VT_MODE[] = "vtmode";
+const char CameraParameters::KEY_CAM_ID[] = "camera-id";
 const char CameraParameters::KEY_PICTURE_SIZE[] = "picture-size";
 const char CameraParameters::KEY_SUPPORTED_PICTURE_SIZES[] = "picture-size-values";
 const char CameraParameters::KEY_PICTURE_FORMAT[] = "picture-format";
